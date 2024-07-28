@@ -8,15 +8,15 @@
 
 
 
-- 🔭 I’m currently working on **Front-End Projects**
+- 🔭 I’m currently working on **Full-Stack Projects**
 
-- 🌱 I’m currently learning **React, MongoDB, Express, Node**
+- 🌱 I have currently learnt - **React, MongoDB, Express, Node, Next, Typescript, Tailwind CSS**
 
 - 🤝 I’m looking for help with **DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RohanShrivastava08?tab=repositories](https://github.com/RohanShrivastava08?tab=repositories)
 
-- 💬 Ask me about **Front-End Development**
+- 💬 Ask me about **Full-Stack Development**
 
 - 📫 How to reach me **rohansh0808@gmail.com**
 
