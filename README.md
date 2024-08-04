@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Full-Stack Projects**
 
-- 🌱 I have currently learnt - **React, MongoDB, Express, Node, Next, Typescript, Tailwind CSS**
+- 🌱 I have currently learnt - **React, MongoDB, Express, Node, Next, Typescript, Tailwind CSS, SQL, PostgreSQL**
 
 - 🤝 I’m looking for help with **DSA**
 
