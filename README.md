@@ -15,7 +15,7 @@
     <p>Hello 👋, I'm Rohan Shrivastava, a passionate Full Stack/MERN Stack Developer from India.</p>
     <ul>
         <li>🔭 I’m currently working on Full-Stack/MERN Stack Projects.</li>
-        <li>🌱 I have currently learnt - React, MongoDB, Express, Node, Next, Typescript, Tailwind CSS, SQL, PostgreSQL.</li>
+        <li>🌱 I have currently learnt - React, MongoDB, Express, Node, Next, Typescript, Tailwind CSS, SQL, PostgreSQL, Three.js, GSAP, Framer Motion.</li>
         <li>🤝 I’m looking for help with DSA.</li>
         <li>👨‍💻 All of my projects are available at <a href="https://github.com/RohanShrivastava08?tab=repositories">GitHub</a>.</li>
         <li>💬 Ask me about Full-Stack Development.</li>
