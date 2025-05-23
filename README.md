@@ -43,4 +43,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=RohanShrivastava08&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true)
 
+### 🦖 Holopin Badges
+[![An image of @rohansh08's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohansh08)](https://holopin.io/@rohansh08)
 
