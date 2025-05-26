@@ -16,7 +16,7 @@
     <ul>
         <li>🔭 I’m currently working on Full-Stack/MERN Stack Projects.</li>
         <li>🌱 I have currently learnt - React, MongoDB, Express, Node, Next, Typescript, Tailwind CSS, SQL, PostgreSQL, Three.js, GSAP, Framer Motion.</li>
-        <li>🤝 I’m looking for help with DSA.</li>
+        <li>🤝 I’m looking for help with DSA & AWS.</li>
         <li>👨‍💻 All of my projects are available at <a href="https://github.com/RohanShrivastava08?tab=repositories">GitHub</a>.</li>
         <li>💬 Ask me about Full-Stack Development.</li>
         <li>📫 How to reach me: <a href="mailto:rohansh0808@gmail.com">rohansh0808@gmail.com</a>.</li>
