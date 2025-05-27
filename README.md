@@ -1,5 +1,5 @@
 <h1 align="left">Hello 👋  I'm Rohan Shrivastava</h1>
-<h3 align="left">A passionate MERN Stack Developer from India Google (Noto Color Emoji 16.0)</h3>
+<h3 align="left">A passionate MERN Stack Developer from India 🇮🇳 </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
