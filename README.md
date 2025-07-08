@@ -11,8 +11,8 @@
 
 <div style="text-align: left;">
     <h3>💫 About Me:</h3>
-    <p>Hello 👋, I'm Rohan Shrivastava, a passionate Full Stack/MERN Stack Developer from India.</p>
     <ul>
+        <li>Hello 👋, I'm Rohan Shrivastava, a passionate Full Stack/MERN Stack Developer from India.</li>
         <li>🔭 I’m currently working on Full-Stack/MERN Stack Projects.</li>
         <li>🌱 I have currently learnt - React, MongoDB, Express, Node, Next, Typescript, Tailwind CSS, SQL, PostgreSQL, Three.js, GSAP, Framer Motion.</li>
         <li>🤝 I’m looking for help with DSA & AWS.</li>
